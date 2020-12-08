@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4900b8b5-e788-4458-b723-6844ab33022a" name="Default Changelist" comment="" />
+    <list default="true" id="4900b8b5-e788-4458-b723-6844ab33022a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +127,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lKnhXsyby9wSCBnQGvEpVfkWWC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,7 +135,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../masisjan.loc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -147,7 +160,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607354769325</updated>
-      <workItem from="1607354770407" duration="109000" />
+      <workItem from="1607354770407" duration="1329000" />
+      <workItem from="1607356129623" duration="4119000" />
+      <workItem from="1607442779664" duration="1968000" />
     </task>
     <servers />
   </component>
@@ -155,6 +170,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1231" y="225" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607367061312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="225" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607367061312" />
+    <state x="279" y="283" key="FileChooserDialogImpl" timestamp="1607358089838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607358089838" />
+    <state x="363" y="236" width="449" height="196" key="Github.ShareDialog" timestamp="1607355054287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="363" y="236" width="449" height="196" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607355054287" />
+    <state x="343" y="99" width="493" height="801" key="Github.UntrackedFilesDialog" timestamp="1607355064915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="99" width="493" height="801" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607355064915" />
+    <state x="737" y="227" key="NewPhpClassDialog" timestamp="1607444503648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="227" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607444503648" />
     <state x="171" y="161" key="SettingsEditor" timestamp="1607354879618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
